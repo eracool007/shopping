@@ -1,0 +1,11 @@
+{
+    "name": "cfont/shopping",
+    "description": "VBox shopping cart",
+    "type": "project",
+    "license": "no",
+    "minimum-stability": "stable",
+    "require": {
+        "monolog/monolog": "^2.3",
+        "stripe/stripe-php": "^7.101"
+    }
+}
