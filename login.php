@@ -1,8 +1,4 @@
 <?php
-//user email: boss@example.com, password: 1234
-
-//Process login
-
 session_start();
 include_once(__DIR__ . '/includes/header_admin.php');
 
